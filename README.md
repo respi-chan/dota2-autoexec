@@ -2,8 +2,8 @@
 
 ![keybind map](https://cloud.githubusercontent.com/assets/7574985/10071017/746d2c10-6284-11e5-8cd2-29bcdcf9d2aa.png)
 
+*Jam-packed with functionality on prime keyboard real estate!*
 ## Features:
-* Jam-packed with functionality on prime keyboard real estate!
 * League-of-Legends-style center-on-unit ```SPACE``` hotkey with ```dota_camera_lock``` (all the other ways *jiggle* the camera)
 * ```ALT``` modifier on abilities and items to quickcast
 * ```F1``` - ```F8``` bound to quickcast the first item — *for spamming blink after Rearm, Primal Split, or Reincarnation!*
