@@ -7,7 +7,7 @@
 * League-of-Legends-style center-on-unit ```SPACE``` hotkey with ```dota_camera_lock``` (all the other ways *jiggle* the camera)
 * ```ALT``` modifier on abilities and items to quickcast
 * ```F1``` - ```F8``` bound to quickcast the first item — *for spamming blink after Rearm, Primal Split, or Reincarnation!*
-* Alt + Right-click for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled
+* ```ALT``` + Right-click for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled
 * ```-``` bound to toggle [automatic repeated right-clicks when right mouse button is held down](http://store.steampowered.com/news/15855/) — *for nabbing that 0 minute rune!*
 * ```=``` bound to toggle 'auto attack' and 'auto-attack after spell' — *for those exhilarating Naga Siren games!*
 * ```n``` and ```m``` bound to move camera to top / bottom rune
