@@ -9,7 +9,7 @@
 * ```F1``` - ```F8``` bound to quickcast the first item — *for spamming blink after Rearm, Primal Split, or Reincarnation!*
 * ```ALT``` + Right-click for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled
 * ```-``` bound to toggle [automatic repeated right-clicks when right mouse button is held down](http://store.steampowered.com/news/15855/) — *for nabbing that 0 minute rune!*
-* ```=``` bound to toggle 'auto attack' and 'auto-attack after spell' — *for those exhilarating Naga Siren games!*
+* ```=``` bound to toggle 'auto attack' and 'auto attack after spell' — *for those exhilarating Naga Siren games!*
 * ```n``` and ```m``` bound to move camera to top / bottom rune
 * Cheat hotkeys for convenient lobby testing!
 * Game-winning, inspirational, and megalegit chat messages such as:
