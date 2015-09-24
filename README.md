@@ -12,7 +12,7 @@
 * ```=``` bound to toggle 'auto attack' and 'auto-attack after spell' — *for those exhilarating Naga Siren games!*
 * ```n``` and ```m``` bound to move camera to top / bottom rune
 * Cheat hotkeys for convenient lobby testing!
-* Game-winning, inspirational, and mega-legit chat messages such as:
+* Game-winning, inspirational, and megalegit chat messages such as:
   * ```KP_0``` (team-chat) ```KP_DEL``` (all-chat) "Remember to keep good posture and stay hydrated!"
   * ```LEFTARROW``` "Remember to communicate/ping for Living Armor! (only for damage block at lower lvls)"
   * ```KP_8``` (team-chat) ```KP_9``` (all-chat): *(separated into 5 keypresses to accomodate the chat message length limit)*
