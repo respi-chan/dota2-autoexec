@@ -16,6 +16,7 @@
   * ```KP_0``` (team-chat) ```KP_DEL``` (all-chat) "Remember to keep good posture and stay hydrated!"
   * ```LEFTARROW``` "Remember to communicate/ping for Living Armor! (only for damage block at lower lvls)"
   * ```KP_8``` (team-chat) ```KP_9``` (all-chat): *(separated into 5 keypresses to accomodate the chat message length limit)*
+
 > Soldiers! Don't give yourselves to brutes, men who despise you and enslave you, who regiment your lives,
 > tell you what to do, what to think and what to feel! Who drill you, diet you, treat you like cattle,
 > use you as cannon fodder! Don't give yourselves to these unnatural men- machine men with machine minds and machine hearts!
