@@ -1,6 +1,6 @@
 # Thth's Dota 2 autoexec.cfg
 
-![keybind map](https://cloud.githubusercontent.com/assets/7574985/10159270/4b14bf42-6665-11e5-999e-9ee65ed30d29.png)
+![keybind map](https://cloud.githubusercontent.com/assets/7574985/10159350/cd5335e2-6665-11e5-8134-e23e181e5c7d.png)
 
 *Jam-packed with functionality on prime keyboard real estate!*
 ## Features:
