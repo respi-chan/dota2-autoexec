@@ -1,12 +1,22 @@
 # Thth's Dota 2 autoexec.cfg
 
-![keybind map](https://cloud.githubusercontent.com/assets/7574985/10159350/cd5335e2-6665-11e5-8134-e23e181e5c7d.png)
+![keybind map](https://cloud.githubusercontent.com/assets/7574985/10162815/f299371e-667b-11e5-8e9f-db5509456634.png)
 
 *Jam-packed with functionality on prime keyboard real estate!*
+
+
+## Basis:
+* ```1``` - ```5``` + ```G``` items
+* ```Q``` ```W``` ```E``` ```D``` ```F``` ```R``` abilities
+* ```Z``` ```X``` ```C``` control groups
+* ```ALT``` modifier to quickcast items and abilities
+
 ## Features:
 * League-of-Legends-style center-on-unit ```SPACE``` hotkey with ```dota_camera_lock``` (all the other ways *jiggle* the camera)
+* ```ALT``` + ```A``` to quick attack in the style of quick casting with the ALT modifier
 * ```F1``` - ```F8``` bound to quickcast the first item — *for spamming blink after Rearm, Primal Split, or Reincarnation!*
 * ```ALT``` + Right-click for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled
+* ```G``` item hotkey as a reserved slot for Town Portal Scrolls *not* quickcastable with ```ALT```
 * ```-``` bound to toggle [automatic repeated right-clicks when right mouse button is held down](http://store.steampowered.com/news/15855/) — *for nabbing that 0 minute rune!*
 * ```=``` bound to toggle 'auto attack' and 'auto attack after spell' — *for those exhilarating Naga Siren games!*
 * ```n``` and ```m``` bound to move camera to top / bottom rune
@@ -35,12 +45,12 @@
   * add ```+exec autoexec.cfg``` to Dota 2's launch options (right-click Dota 2 in Steam library > Properties >Set Launch Options)
 * Manually configure accompanying hotkeys and options as follows: (because you can't specify modifiers in the autoexec)
 
-Accompanying in-game hotkeys:
-![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/10070077/340b69da-627e-11e5-8b93-90e5e57346d1.jpg)
+**Accompanying in-game hotkeys:**
+![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/10162822/fbe841de-667b-11e5-8405-a200023df312.jpg)
 * set ```ALT``` + ```[key]``` to quickcast for abilities and items
 * set ```ALT``` + ```a``` to autocast whatever autocastable ability on a game-to-game basis
 
-Accompanying in-game options:
+**Accompanying in-game options:**
 ![Accompanying in-game options](https://cloud.githubusercontent.com/assets/7574985/10070088/45b86908-627e-11e5-851c-f8d66711bc30.jpg)
 
 ---
