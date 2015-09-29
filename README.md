@@ -48,7 +48,6 @@
 **Accompanying in-game hotkeys:**
 ![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/10162822/fbe841de-667b-11e5-8405-a200023df312.jpg)
 * set ```ALT``` + ```[key]``` to quickcast for abilities and items
-* set ```ALT``` + ```a``` to autocast whatever autocastable ability on a game-to-game basis
 
 **Accompanying in-game options:**
 ![Accompanying in-game options](https://cloud.githubusercontent.com/assets/7574985/10070088/45b86908-627e-11e5-851c-f8d66711bc30.jpg)
