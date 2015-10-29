@@ -14,8 +14,8 @@
 ## Features:
 * League-of-Legends-style center-on-unit ```SPACE``` hotkey with ```dota_camera_lock``` (all the other ways *jiggle* the camera)
 * ```ALT``` + ```A``` to quick attack in the style of quick casting with the ALT modifier
+* ```ALT``` + ```Right-Click``` for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled, updated to function with [the new ```+dota_unit_movetodirection``` toggle](http://store.steampowered.com/news/19087/)!
 * ```F1``` - ```F8``` bound to quickcast the first item — *for spamming blink after Rearm, Primal Split, or Reincarnation!*
-* ```ALT``` + Right-click for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled
 * ```G``` item hotkey as a reserved slot for Town Portal Scrolls *not* quickcastable with ```ALT```
 * ```-``` bound to toggle [automatic repeated right-clicks when right mouse button is held down](http://store.steampowered.com/news/15855/) — *for nabbing that 0 minute rune!*
 * ```=``` bound to toggle 'auto attack' and 'auto attack after spell' — *for those exhilarating Naga Siren games!*
