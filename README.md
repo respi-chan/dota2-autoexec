@@ -26,13 +26,13 @@
   * ```LEFTARROW``` "Remember to communicate/ping for Living Armor! (only for damage block at lower lvls)"
   * ```KP_8``` (team-chat) ```KP_9``` (all-chat): *(separated into 5 keypresses to accomodate the chat message length limit)*
 
-> Soldiers! Don't give yourselves to brutes, men who despise you and enslave you, who regiment your lives,
-> tell you what to do, what to think and what to feel! Who drill you, diet you, treat you like cattle,
-> use you as cannon fodder! Don't give yourselves to these unnatural men- machine men with machine minds and machine hearts!
-> You are not machines! You are not cattle! You are men! You have a love of humanity in your hearts! You don't hate!
-> Only the unloved hate, the unloved and the unnatural. Soldiers! Don't fight for slavery! Fight for liberty!
-> 
-> — [The Great Dictator (1940)](https://www.youtube.com/watch?v=5IvPIWzQcUY)
+  > Soldiers! Don't give yourselves to brutes, men who despise you and enslave you, who regiment your lives,
+  > tell you what to do, what to think and what to feel! Who drill you, diet you, treat you like cattle,
+  > use you as cannon fodder! Don't give yourselves to these unnatural men- machine men with machine minds and machine hearts!
+  > You are not machines! You are not cattle! You are men! You have a love of humanity in your hearts! You don't hate!
+  > Only the unloved hate, the unloved and the unnatural. Soldiers! Don't fight for slavery! Fight for liberty!
+  > 
+  > — [The Great Dictator (1940)](https://www.youtube.com/watch?v=5IvPIWzQcUY)
 
 * *and more!*
 
