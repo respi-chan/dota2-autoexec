@@ -46,11 +46,11 @@
 * Manually configure accompanying hotkeys and options as follows: (because you can't specify modifiers in the autoexec)
 
 **Accompanying in-game hotkeys:**
-![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/10162822/fbe841de-667b-11e5-8405-a200023df312.jpg)
+![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/12467710/aac18552-bfab-11e5-9463-21b5101e9129.jpg)
 * set ```ALT``` + ```[key]``` to quickcast for abilities and items
 
 **Accompanying in-game options:**
-![Accompanying in-game options](https://cloud.githubusercontent.com/assets/7574985/10070088/45b86908-627e-11e5-851c-f8d66711bc30.jpg)
+![Accompanying in-game options](https://cloud.githubusercontent.com/assets/7574985/12467692/8a600630-bfab-11e5-807a-e2b723a8739b.jpg)
 
 ---
 
