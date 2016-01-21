@@ -38,7 +38,7 @@
 
 ## To use:
 
-* Add autoexec.cfg to Steam/SteamApps/common/dota 2 beta/game/dota/cfg/
+* Add autoexec.cfg to ```Steam/SteamApps/common/dota 2 beta/game/dota/cfg/```
 * Configure Dota 2 to run autoexec.cfg on startup:
   * add the line ```"exec" "autoexec.cfg"``` to "convars" in game_convars.vcfg — located in the same directory
   * *OR*
@@ -46,7 +46,7 @@
 * Manually configure accompanying hotkeys and options as follows: (because you can't specify modifiers in the autoexec)
 
 **Accompanying in-game hotkeys:**
-![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/12467710/aac18552-bfab-11e5-9463-21b5101e9129.jpg)
+![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/12467919/64685f66-bfad-11e5-93ae-49c2a58592ca.jpg)
 * set ```ALT``` + ```[key]``` to quickcast for abilities and items
 
 **Accompanying in-game options:**
