@@ -1,6 +1,6 @@
 # Thth's Dota 2 autoexec.cfg
 
-![keybind map](https://cloud.githubusercontent.com/assets/7574985/10162815/f299371e-667b-11e5-8e9f-db5509456634.png)
+![keybind map](https://cloud.githubusercontent.com/assets/7574985/13619675/7ce8193e-e558-11e5-91d3-5f5668401bb6.png)
 
 *Jam-packed with functionality on prime keyboard real estate!*
 
@@ -14,8 +14,9 @@
 ## Features:
 * League-of-Legends-style center-on-unit ```SPACE``` hotkey with ```dota_camera_lock``` (all the other ways *jiggle* the camera)
 * ```ALT``` + ```A``` to quick attack in the style of quick casting with the ALT modifier
-* ```ALT``` + ```Right-Click``` for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled, updated to function with [the new ```+dota_unit_movetodirection``` toggle](http://store.steampowered.com/news/19087/)!
+* Cycle through all chatwheel options by holding ```T``` and pressing ```Y```!
 * ```F1``` - ```F8``` bound to quickcast the first item — *for spamming blink after Rearm, Primal Split, or Reincarnation!*
+* ```ALT``` + ```Right-Click``` for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled, updated to function with [the new ```+dota_unit_movetodirection``` toggle](http://store.steampowered.com/news/19087/)!
 * ```G``` item hotkey as a reserved slot for Town Portal Scrolls *not* quickcastable with ```ALT```
 * ```-``` bound to toggle [automatic repeated right-clicks when right mouse button is held down](http://store.steampowered.com/news/15855/) — *for nabbing that 0 minute rune!*
 * ```=``` bound to toggle 'auto attack' and 'auto attack after spell' — *for those exhilarating Naga Siren games!*
@@ -46,11 +47,11 @@
 * Manually configure accompanying hotkeys and options as follows: (because you can't specify modifiers in the autoexec)
 
 **Accompanying in-game hotkeys:**
-![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/12467919/64685f66-bfad-11e5-93ae-49c2a58592ca.jpg)
+![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/13619682/8d0a9580-e558-11e5-9fc2-d1a783f2524b.jpg)
 * set ```ALT``` + ```[key]``` to quickcast for abilities and items
 
 **Accompanying in-game options:**
-![Accompanying in-game options](https://cloud.githubusercontent.com/assets/7574985/12467692/8a600630-bfab-11e5-807a-e2b723a8739b.jpg)
+![Accompanying in-game options](https://cloud.githubusercontent.com/assets/7574985/13619687/958292e4-e558-11e5-9ebe-77f2c64e1d2e.jpg)
 
 ---
 
