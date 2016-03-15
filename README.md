@@ -1,6 +1,6 @@
 # Thth's Dota 2 autoexec.cfg
 
-![keybind map](https://cloud.githubusercontent.com/assets/7574985/13619675/7ce8193e-e558-11e5-91d3-5f5668401bb6.png)
+![keybind map](https://cloud.githubusercontent.com/assets/7574985/13794494/6afc056c-ead2-11e5-8519-1248a2de1435.png)
 
 *Jam-packed with functionality on prime keyboard real estate!*
 
@@ -47,11 +47,11 @@
 * Manually configure accompanying hotkeys and options as follows: (because you can't specify modifiers in the autoexec)
 
 **Accompanying in-game hotkeys:**
-![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/13619682/8d0a9580-e558-11e5-9fc2-d1a783f2524b.jpg)
+![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/13794508/85dca9a4-ead2-11e5-97ae-76ee492acfd7.jpg)
 * set ```ALT``` + ```[key]``` to quickcast for abilities and items
 
 **Accompanying in-game options:**
-![Accompanying in-game options](https://cloud.githubusercontent.com/assets/7574985/13619687/958292e4-e558-11e5-9ebe-77f2c64e1d2e.jpg)
+![Accompanying in-game options](https://cloud.githubusercontent.com/assets/7574985/13794515/90bbd7be-ead2-11e5-80cc-1b79ea156a06.jpg)
 
 ---
 
