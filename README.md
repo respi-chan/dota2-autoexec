@@ -1,6 +1,6 @@
 # Thth's Dota 2 autoexec.cfg
 
-![keybind map](https://cloud.githubusercontent.com/assets/7574985/13794494/6afc056c-ead2-11e5-8519-1248a2de1435.png)
+![keybind map](https://cloud.githubusercontent.com/assets/7574985/14041224/289d70dc-f245-11e5-812d-54835d0b500d.png)
 
 *Jam-packed with functionality on prime keyboard real estate!*
 
@@ -14,7 +14,7 @@
 ## Features:
 * League-of-Legends-style center-on-unit ```SPACE``` hotkey with ```dota_camera_lock``` (all the other ways *jiggle* the camera)
 * ```ALT``` + ```A``` to quick attack in the style of quick casting with the ALT modifier
-* Cycle through all chatwheel options by holding ```T``` and pressing ```Y```
+* Cycle through all chatwheel options with the mousewheel!
 * ```F1``` - ```F8``` bound to quickcast the first item — *for spamming blink after Rearm, Primal Split, or Reincarnation!*
 * ```ALT``` + ```Right-Click``` for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled, updated to function with [the new ```+dota_unit_movetodirection``` toggle](http://store.steampowered.com/news/19087/)!
 * ```G``` item hotkey as a reserved slot for Town Portal Scrolls *not* quickcastable with ```ALT```
@@ -46,12 +46,18 @@
   * add ```+exec autoexec.cfg``` to Dota 2's launch options (right-click Dota 2 in Steam library > Properties >Set Launch Options)
 * Manually configure accompanying hotkeys and options as follows: (because you can't specify modifiers in the autoexec)
 
-**Accompanying in-game hotkeys:**
-![Accompanying in-game hotkeys](https://cloud.githubusercontent.com/assets/7574985/13794508/85dca9a4-ead2-11e5-97ae-76ee492acfd7.jpg)
+**Accompanying in-game basic hotkeys:**
+![Accompanying in-game basic hotkeys](https://cloud.githubusercontent.com/assets/7574985/14041227/33a8d016-f245-11e5-843e-e0fdea82cdf9.jpg)
 * set ```ALT``` + ```[key]``` to quickcast for abilities and items
 
-**Accompanying in-game options:**
-![Accompanying in-game options](https://cloud.githubusercontent.com/assets/7574985/13794515/90bbd7be-ead2-11e5-80cc-1b79ea156a06.jpg)
+**Accompanying in-game advanced hotkeys:**
+![Accompanying in-game advanced hotkeys](https://cloud.githubusercontent.com/assets/7574985/14041246/55d95a20-f245-11e5-861b-50db2b2c7d00.jpg)
+
+**Accompanying in-game basic options:**
+![Accompanying in-game basic options](https://cloud.githubusercontent.com/assets/7574985/14041259/719b29d2-f245-11e5-9cd5-5cdfcddca1b0.jpg)
+
+**Accompanying in-game advanced options:**
+![Accompanying in-game advanced options](https://cloud.githubusercontent.com/assets/7574985/14041267/820c2140-f245-11e5-99c0-d4c8bc8b42ae.jpg)
 
 ---
 
