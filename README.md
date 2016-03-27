@@ -16,7 +16,7 @@
 * ```ALT``` + ```A``` to quick attack in the style of quick casting with the ALT modifier
 * Cycle through all chatwheel options with the mousewheel!
 * ```F1``` - ```F8``` bound to quickcast the first item — *for spamming blink after Rearm, Primal Split, or Reincarnation!*
-* ```ALT``` + ```Right-Click``` for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/) enabled, updated to function with [the new ```+dota_unit_movetodirection``` toggle](http://store.steampowered.com/news/19087/)!
+* ```ALT``` + ```Right-Click``` for [pathfinding-disabled move command](http://store.steampowered.com/news/15840/)!
 * ```G``` item hotkey as a reserved slot for Town Portal Scrolls *not* quickcastable with ```ALT```
 * ```-``` bound to toggle [automatic repeated right-clicks when right mouse button is held down](http://store.steampowered.com/news/15855/) — *for nabbing that 0 minute rune!*
 * ```=``` bound to toggle 'auto attack' and 'auto attack after spell' — *for those exhilarating Naga Siren games!*
@@ -47,17 +47,17 @@
 * Manually configure accompanying hotkeys and options as follows: (because you can't specify modifiers in the autoexec)
 
 **Accompanying in-game basic hotkeys:**
-![Accompanying in-game basic hotkeys](https://cloud.githubusercontent.com/assets/7574985/14041227/33a8d016-f245-11e5-843e-e0fdea82cdf9.jpg)
+![Accompanying in-game basic hotkeys](https://cloud.githubusercontent.com/assets/7574985/14064192/ed5a7fe6-f3c6-11e5-8261-c01166d5e4a3.jpg)
 * set ```ALT``` + ```[key]``` to quickcast for abilities and items
 
 **Accompanying in-game advanced hotkeys:**
-![Accompanying in-game advanced hotkeys](https://cloud.githubusercontent.com/assets/7574985/14041246/55d95a20-f245-11e5-861b-50db2b2c7d00.jpg)
+![Accompanying in-game advanced hotkeys](https://cloud.githubusercontent.com/assets/7574985/14064189/ed553df6-f3c6-11e5-8d6d-29eb8726cf46.jpg)
 
 **Accompanying in-game basic options:**
-![Accompanying in-game basic options](https://cloud.githubusercontent.com/assets/7574985/14041259/719b29d2-f245-11e5-9cd5-5cdfcddca1b0.jpg)
+![Accompanying in-game basic options](https://cloud.githubusercontent.com/assets/7574985/14064190/ed589ff0-f3c6-11e5-8b25-b8c6c0fbe9b7.jpg)
 
 **Accompanying in-game advanced options:**
-![Accompanying in-game advanced options](https://cloud.githubusercontent.com/assets/7574985/14041267/820c2140-f245-11e5-99c0-d4c8bc8b42ae.jpg)
+![Accompanying in-game advanced options](https://cloud.githubusercontent.com/assets/7574985/14064191/ed59a9c2-f3c6-11e5-8817-7d38b82da101.jpg)
 
 ---
 
