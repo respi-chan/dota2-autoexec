@@ -47,17 +47,17 @@
 * Manually configure accompanying hotkeys and options as follows: (because you can't specify modifiers in the autoexec)
 
 **Accompanying in-game basic hotkeys:**
-![Accompanying in-game basic hotkeys](https://cloud.githubusercontent.com/assets/7574985/14064192/ed5a7fe6-f3c6-11e5-8261-c01166d5e4a3.jpg)
+![Accompanying in-game basic hotkeys](https://cloud.githubusercontent.com/assets/7574985/14338042/772c0ffa-fc41-11e5-8ea6-e32c8a31be20.jpg)
 * set ```ALT``` + ```[key]``` to quickcast for abilities and items
 
 **Accompanying in-game advanced hotkeys:**
-![Accompanying in-game advanced hotkeys](https://cloud.githubusercontent.com/assets/7574985/14064189/ed553df6-f3c6-11e5-8d6d-29eb8726cf46.jpg)
+![Accompanying in-game advanced hotkeys](https://cloud.githubusercontent.com/assets/7574985/14338045/79d7cc9e-fc41-11e5-8580-03027704b692.jpg)
 
 **Accompanying in-game basic options:**
-![Accompanying in-game basic options](https://cloud.githubusercontent.com/assets/7574985/14064190/ed589ff0-f3c6-11e5-8b25-b8c6c0fbe9b7.jpg)
+![Accompanying in-game basic options](https://cloud.githubusercontent.com/assets/7574985/14338047/7b56f8c4-fc41-11e5-8583-8248c5b366e1.jpg)
 
 **Accompanying in-game advanced options:**
-![Accompanying in-game advanced options](https://cloud.githubusercontent.com/assets/7574985/14064191/ed59a9c2-f3c6-11e5-8817-7d38b82da101.jpg)
+![Accompanying in-game advanced options](https://cloud.githubusercontent.com/assets/7574985/14338048/7cd53684-fc41-11e5-9acf-0f48e592ed61.jpg)
 
 ---
 
